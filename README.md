@@ -1,25 +1,25 @@
-# 🏥 Peminjaman UKS - Sistem Manajemen Fasilitas Sekolah
+# Peminjaman UKS - Sistem Manajemen Fasilitas 
 
 [![PHP Version](https://img.shields.io/badge/php-%5E8.0-blue.svg)](https://www.php.net/)
 [![MySQL](https://img.shields.io/badge/mysql-%5E8.0-orange.svg)](https://www.mysql.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Sistem informasi berbasis web yang dirancang khusus untuk mendigitalisasi manajemen peminjaman fasilitas dan alat medik pada Unit Kesehatan Sekolah (UKS). Solusi ini memudahkan pemantauan stok, proses peminjaman, hingga perhitungan denda otomatis.
+Sistem informasi berbasis web yang dirancang khusus untuk mendigitalisasi manajemen peminjaman fasilitas dan alat seni pada Unit Kesehatan seni (UKS). Solusi ini memudahkan pemantauan stok, proses peminjaman, hingga perhitungan denda otomatis.
 
 ---
 
-## ✨ Fitur Unggulan
+## Fitur Unggulan
 
-- **🛡️ Multi-User Authentication**: Sistem login terpisah untuk Admin dan Pengguna (Siswa/Guru).
-- **📦 Inventaris Real-time**: Manajemen fasilitas dengan status ketersediaan otomatis.
-- **📑 Digital Workflow**: Alur peminjaman dengan upload bukti identitas dan verifikasi admin.
-- **💰 Automatic Fine System**: Perhitungan denda keterlambatan pengembalian secara sistematis.
-- **📊 Laporan Terintegrasi**: Rekapitulasi data transaksi dalam bentuk laporan untuk admin.
-- **🔔 Notifikasi Sistem**: Pesan status peminjaman (disetujui/ditolak) langsung ke dashboard user.
+- **Multi-User Authentication**: Sistem login terpisah untuk Admin dan Pengguna (Siswa/Guru).
+- **Inventaris Real-time**: Manajemen fasilitas dengan status ketersediaan otomatis.
+- **Digital Workflow**: Alur peminjaman dengan upload bukti identitas dan verifikasi admin.
+- **Automatic Fine System**: Perhitungan denda keterlambatan pengembalian secara sistematis.
+- **Laporan Terintegrasi**: Rekapitulasi data transaksi dalam bentuk laporan untuk admin.
+- **Notifikasi Sistem**: Pesan status peminjaman (disetujui/ditolak) langsung ke dashboard user.
 
 ---
 
-## 🛠️ Stack Teknologi
+## Stack Teknologi
 
 - **Backend**: PHP 8.x (Native dengan PDO)
 - **Database**: MySQL 8.x
@@ -28,7 +28,7 @@ Sistem informasi berbasis web yang dirancang khusus untuk mendigitalisasi manaje
 
 ---
 
-## 🚀 Panduan Instalasi
+## Panduan Instalasi
 
 Ikuti langkah-langkah berikut untuk menjalankan project di lingkungan lokal (Laragon/XAMPP):
 
@@ -49,7 +49,7 @@ Ikuti langkah-langkah berikut untuk menjalankan project di lingkungan lokal (Lar
 
 ---
 
-## 🔐 Akun Demo (Default)
+## Akun Demo (Default)
 
 | Role | Username | Password |
 | :--- | :--- | :--- |
@@ -58,7 +58,7 @@ Ikuti langkah-langkah berikut untuk menjalankan project di lingkungan lokal (Lar
 
 ---
 
-## 📄 Lisensi
+## Lisensi
 
 Didistribusikan di bawah Lisensi MIT. Lihat file `LICENSE` untuk informasi lebih lanjut.
 

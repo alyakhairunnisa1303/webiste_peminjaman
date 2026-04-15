@@ -49,15 +49,6 @@ Ikuti langkah-langkah berikut untuk menjalankan project di lingkungan lokal (Lar
 
 ---
 
-## Akun Demo (Default)
-
-| Role | Username | Password |
-| :--- | :--- | :--- |
-| **Admin** | `admin` | `adminuks123` |
-| **User** | (Silakan daftar di halaman Registrasi) | - |
-
----
-
 ## Lisensi
 
 Didistribusikan di bawah Lisensi MIT. Lihat file `LICENSE` untuk informasi lebih lanjut.
